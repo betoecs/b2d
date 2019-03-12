@@ -72,7 +72,7 @@ bool Entity::isPaused() const
 }
 
 ////////////////////////////////////////
-void Entity::setPause(bool paused)
+void Entity::setPaused(bool paused)
 {
 	this->paused = paused;
 }
